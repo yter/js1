@@ -9,7 +9,7 @@ let user = {
     age: ...,
     status: {
         text: ...
-    }
+    }dfsdfsfdsdfsdf
 }
 
 user.status.text 
